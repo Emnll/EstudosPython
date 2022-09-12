@@ -1,3 +1,4 @@
+# Calculo de área para se calcular quantos litros de tinta serão usados
 l = int(input("Qual a largura da parede em metros? "))
 a = int(input("Qual a altura da parede em metros? "))
 area = a * l 
