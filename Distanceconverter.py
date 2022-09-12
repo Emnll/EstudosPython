@@ -1,3 +1,5 @@
+#Assume o input como uma distância em metros e converte em outras medidas de distância
+#Assumes the input number as meters and converts it into other distance types
 m = int(input('Digite um número: '))
 km = m / 1000
 hm = m / 100
