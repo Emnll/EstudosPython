@@ -1,3 +1,5 @@
+#Calcula se os números dado pelo usuário podem formar um triângulo
+#Calculates if the number given by a user can form a triangle
 r1 = float(input('Digite o valor de uma reta: '))
 r2 = float(input('Digite o valor de uma reta: '))
 r3 = float(input('Digite o valor de uma reta: '))
